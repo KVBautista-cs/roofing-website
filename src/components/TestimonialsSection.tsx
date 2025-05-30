@@ -38,7 +38,7 @@ export default function TestimonialsSection() {
 <section className="relative overflow-hidden isolate bg-white py-20 px-4">
       <div className="max-w-6xl mx-auto text-center mb-12">
         <h2 className="text-4xl font-bold text-gray-900">What Our Clients Say</h2>
-        <p className="mt-2 text-gray-600">Real feedback from homeowners we've helped.</p>
+        <p className="mt-2 text-gray-600">Real feedback from homeowners we&apos;ve helped.</p>
       </div>
 
       {/* Mobile Swiper */}

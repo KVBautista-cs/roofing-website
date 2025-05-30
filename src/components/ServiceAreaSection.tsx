@@ -24,8 +24,9 @@ export default function ServiceAreaSection() {
       <div className="max-w-6xl mx-auto text-center mb-12">
         <h2 className="text-4xl font-bold">Service Area</h2>
         <p className="mt-2 text-blue-100">
-          We're proud to serve homeowners and businesses across the entire Mid-South region.
-        </p>
+        We&apos;re proud to serve homeowners and businesses across the entire Mid-South region.
+      </p>
+
       </div>
 
       {/* Map image placeholder */}

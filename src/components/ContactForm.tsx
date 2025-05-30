@@ -56,12 +56,7 @@ export default function ContactForm() {
 };
 
 
-{success && (
-  <div className="flex items-center gap-2 mb-4 text-green-600 text-lg font-semibold animate-fadeInUp">
-    <span className="text-2xl animate-bounce">📩</span>
-    Message sent successfully!
-  </div>
-)}
+
 
 
   return (

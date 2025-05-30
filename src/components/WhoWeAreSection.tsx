@@ -9,11 +9,12 @@ export default function WhoWeAreSection() {
         <div>
           <h2 className="text-3xl font-bold mb-4 text-gray-900">Who We Are</h2>
           <p className="text-gray-700 leading-relaxed">
-            Mountain Climbers Roofers is a fully licensed and insured roofing company serving the Mid-South. 
-            With years of experience in roofing, siding, gutters, and painting, we’re committed to delivering top-tier workmanship and customer satisfaction.
-          </p>
+          Mountain Climbers Roofers is a fully licensed and insured roofing company serving the Mid-South. 
+          With years of experience in roofing, siding, gutters, and painting, we&apos;re committed to delivering top-tier workmanship and customer satisfaction.
+        </p>
+
           <p className="mt-4 text-gray-700">
-            Whether it's a new installation, repairs, or maintenance, our team ensures every project is done right—backed by a 10-year guarantee.
+            Whether it&apos;s a new installation, repairs, or maintenance, our team ensures every project is done right—backed by a 10-year guarantee.
           </p>
         </div>
 

@@ -19,7 +19,7 @@ export async function POST(req: Request) {
   try {
     const data = await resend.emails.send({
       from: 'Roofing Website <onboarding@resend.dev>', //  Safe to use
-      to: 'mountainclimbersroofers@gmail.com', // ⬅ Replace with YOUR real email
+      to: 'kevinbautista383@gmail.com', // ⬅ Replace with YOUR real email
       subject: '📬 New Contact Form Submission',
       html: `
         <h2>New message from ${name}</h2>

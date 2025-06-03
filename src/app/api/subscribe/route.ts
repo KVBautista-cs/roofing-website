@@ -12,7 +12,7 @@ export async function POST(req: Request) {
   try {
     const data = await resend.emails.send({
       from: 'Roofing Website <onboarding@resend.dev>',
-      to: 'mountainclimbersroofers@gmail.com', // or client email
+      to: 'kevinbautista383@gmail.com', // or client email
       subject: 'New Subscriber',
       html: `<p>New subscriber: <strong>${email}</strong></p>`,
     });

@@ -1,7 +1,13 @@
 {
   "redirects": [
     {
-      "source": "http://mountainclimbersroofers.com",
+      "source": "/",
+      "has": [
+        {
+          "type": "host",
+          "value": "mountainclimbersroofers.com"
+        }
+      ],
       "destination": "https://www.mountainclimbersroofers.com",
       "permanent": true
     }

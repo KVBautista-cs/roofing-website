@@ -33,8 +33,8 @@ export default function ParallaxSection() {
         <Image
           src="/assets/logo.jpeg"
           alt="Mountain Climbers Logo"
-          width={160}
-          height={160}
+          width={250}
+          height={250}
           className="mb-4 mx-auto"
         />
         <h1 className="text-3xl md:text-5xl font-bold drop-shadow-lg">

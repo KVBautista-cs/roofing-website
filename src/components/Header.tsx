@@ -12,7 +12,7 @@ export default function Header() {
       <div className="w-full px-6 md:px-10 py-3 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
-          <Image src="/assets/logo.jpeg" alt="Logo" width={40} height={40} className="rounded-full" />
+          <Image src="/assets/logo.jpeg" alt="Logo" width={60} height={60} className="rounded-full" />
           <span className="font-bold text-xl text-blue-900">Mountain Climbers</span>
         </Link>
 

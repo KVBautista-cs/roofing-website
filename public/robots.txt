@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.mountainclimbersroofers.com
+
+# Sitemaps
+Sitemap: https://www.mountainclimbersroofers.com/sitemap.xml
